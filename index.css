@@ -2,7 +2,13 @@ html {
     font-family: "Roboto Mono", monospace;
 }
 
-nav {
+body {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center
 }
 
-
+ul {
+    list-style-position: inside;
+    list-style-type: none;
+}
